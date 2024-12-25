@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soy técnico informático y actualmente estoy cursando un ciclo superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona el mundo de la tecnología y el desarrollo de software. Soy una persona proactiva que está en constante aprendizaje.
 
 <!--
 **josemajr6/josemajr6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
