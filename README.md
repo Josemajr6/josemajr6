@@ -10,6 +10,6 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" height="25" /> Estadísticas
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Josemajr6&theme=tokyonight)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josemajr6&show_icons=true&theme=tokyonight)
 ![Mis lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Josemajr6&hide_progress=true&theme=tokyonight)
+
