@@ -25,7 +25,7 @@
 <div align="center">
 
   <h3>Lenguajes</h3>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,lua&theme=dark" />
   
   <br>
 
@@ -52,7 +52,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/6ToKrHa.png" alt="Nexus App Preview" width="450" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
+  <img src="https://i.imgur.com/Hv2RF1h.png" alt="Nexus App Preview" width="450" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
 </p>
 
 > **Nexus App** es mi Proyecto de Fin de Grado. Es una plataforma centralizada para la gestión de ofertas y artículos de segunda mano.
