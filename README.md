@@ -30,7 +30,7 @@
   <br>
 
   <h3>Frontend & Móvil</h3>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,androidstudio,flutter&theme=dark" />
 
   <br>
 
