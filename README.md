@@ -25,12 +25,12 @@
 <div align="center">
 
   <h3>Lenguajes</h3>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,lua&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts&theme=dark" />
   
   <br>
 
   <h3>Frontend & Móvil</h3>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,flutter,astro&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,flutter&theme=dark" />
 
   <br>
 
