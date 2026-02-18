@@ -80,11 +80,27 @@ He organizado mis habilidades por áreas de especialización, incluyendo mi expe
 
 <hr>
 
+## 📚 Otros Proyectos y Repositorios
+
+Aquí puedes encontrar otros desarrollos completados y utilidades disponibles en mi GitHub:
+
+- **[Aura Movies](https://github.com/josemajr6/aura-movies)** `iOS/Swift` • Red social cinematográfica con SwiftUI y backend Vapor con notificaciones en tiempo real.
+- **[Mr. Rebujito](https://github.com/MrRebujito)** `Full Stack` • Plataforma de gestión integral para Ferias (Casetas, socios y stock) con Angular y Spring Boot.
+- **[LePokedex](https://github.com/Josemajr6/LePokedex)** `Android` • App nativa para gestionar colecciones de avistamientos Pokémon con Material Design.
+- **[Gran Zona Marciana](https://github.com/Josemajr6/GranZonaMarciana)** `Android` • Sistema de gestión para Reality Shows con votaciones, roles y modo offline.
+- **[Aura Quiz](https://github.com/josemajr6/aura-quiz)** `iOS` • Juego educativo de banderas y capitales mundiales conectado a RestCountries API.
+- **[Aura Habits](https://github.com/josemajr6/aura-habits)** `iOS` • Tracker de hábitos minimalista desarrollado con Swift Charts y WidgetKit.
+- **[Aura Weather](https://github.com/josemajr6/aura-weather)** `iOS` • Aplicación meteorológica elegante con geolocalización CoreLocation.
+- **[Aura Notes](https://github.com/josemajr6/aura-notes)** `macOS` • Editor de notas nativo para Mac con persistencia eficiente SwiftData.
+- **[Aura Notch](https://github.com/josemajr6/aura-notch)** `macOS` • Utilidad que transforma el Notch del Mac en un área interactiva multimedia.
+- **[ManyWorker API](https://github.com/Josemajr6/ManyWorker)** `Backend` • API REST con Spring Boot y Swagger para la gestión de tareas y usuarios.
+
+<hr>
+
 ## 📈 Actividad y Rendimiento
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josemajr6&theme=tokyonight&bg_color=0d1117&hide_border=true&color=58a6ff" width="100%" />
-
   
 </div>
 
