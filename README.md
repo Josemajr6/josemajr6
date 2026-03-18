@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20Manuel&fontSize=70&animation=fadeIn" />
 
-  <h3>Técnico Informático & Estudiante de DAM 🚀</h3>
+  <h3>Junior Full Stack Developer 🚀</h3>
   
   <p>
-    <b>Especialista en desarrollo multiplataforma y sistemas de gestión empresarial</b>
+    <b>No olvides el placer de programar con elegencia y estilo 🌟</b>
   </p>
 
   <a href="https://josemajr6.me" target="_blank">
@@ -27,12 +27,10 @@ He organizado mis habilidades por áreas de especialización, incluyendo mi expe
     <td valign="top" width="50%">
       <h3>📂 Lenguajes & Core</h3>
       <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,swift&theme=dark" />
-      <p><i>Dominio de lógica de programación y tipado fuerte.</i></p>
     </td>
     <td valign="top" width="50%">
       <h3>💻 Desktop & Frontend</h3>
       <img src="https://skillicons.dev/icons?i=dotnet,angular,react,html,css&theme=dark" />
-      <p><i>Desarrollo de interfaces con <b>WPF (.NET)</b> y Angular.</i></p>
     </td>
   </tr>
   <tr>
@@ -43,8 +41,7 @@ He organizado mis habilidades por áreas de especialización, incluyendo mi expe
     </td>
     <td valign="top" width="50%">
       <h3>⚙️ Backend & DB</h3>
-      <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,firebase,oracle&theme=dark" />
-      <p><i>Arquitecturas escalables y bases de datos relacionales.</i></p>
+      <img src="https://skillicons.dev/icons?i=spring,laravel,mysql,postgres,mongodb,firebase,oracle&theme=dark" />
     </td>
   </tr>
   <tr>
