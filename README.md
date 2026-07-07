@@ -26,11 +26,11 @@ He organizado mis habilidades por áreas de especialización, incluyendo mi expe
   <tr>
     <td valign="top" width="50%">
       <h3>📂 Lenguajes & Core</h3>
-      <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,swift&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,php,js,ts,swift&theme=dark" />
     </td>
     <td valign="top" width="50%">
       <h3>💻 Desktop & Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=dotnet,angular,react,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,angular,wordpress&theme=dark" />
     </td>
   </tr>
   <tr>
