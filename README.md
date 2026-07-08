@@ -4,7 +4,7 @@
   <h3>Junior Full Stack Developer 🚀</h3>
   
   <p>
-    <b>No olvides el placer de programar con elegencia y estilo 🌟</b>
+    Backend con Spring Boot · Frontend con Angular · Construyendo aplicaciones reales de principio a fin
   </p>
 
   <a href="https://josemajr6.me" target="_blank">
@@ -13,92 +13,67 @@
   <a href="https://github.com/Josemajr6?tab=repositories">
     <img src="https://img.shields.io/badge/Mis%20Proyectos-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </div>
 
 <hr>
 
-## 🛠️ Stack Tecnológico Profesional
-
-He organizado mis habilidades por áreas de especialización, incluyendo mi experiencia en sistemas ERP y desarrollo nativo.
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📂 Lenguajes & Core</h3>
-      <img src="https://skillicons.dev/icons?i=java,php,js,ts,swift&theme=dark" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>💻 Desktop & Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,angular,wordpress&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📱 Mobile Development</h3>
-      <img src="https://skillicons.dev/icons?i=androidstudio,apple,flutter,dart&theme=dark" />
-      <p><i>Aplicaciones nativas (Android/iOS) y Flutter.</i></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>⚙️ Backend & DB</h3>
-      <img src="https://skillicons.dev/icons?i=spring,laravel,mysql,postgres,mongodb,firebase,oracle&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💼 ERP & CRM Management</h3>
-      <img src="https://skillicons.dev/icons?i=odoo&theme=dark" />
-      <p><i>Especialización en <b>Odoo</b>: Gestión y personalización de flujos empresariales.</i></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🛠️ Herramientas & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,vscode,visualstudio,npm&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-<hr>
-
 ## 🌟 Proyecto Destacado: Nexus App
-> **Nota:** Mi enfoque principal actual es mi Proyecto de Fin de Grado (PFG).
 
 <p align="center">
   <img src="https://i.imgur.com/Hv2RF1h.png" alt="Nexus App Preview" width="500" style="border-radius: 12px; border: 1px solid #30363d;" />
 </p>
 
-**Nexus App** es una plataforma integral de segunda mano. Una solución multiplataforma con seguridad JWT, comunicación en tiempo real y arquitectura de microservicios.
+**Nexus App** es una plataforma integral de marketplace de segunda mano. Backend con Spring Boot y seguridad JWT, frontend en Angular, comunicación en tiempo real con WebSockets, pagos con Stripe y despliegue en producción.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payments-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </div>
 
-<hr>
-
-## 📚 Otros Proyectos y Repositorios
-
-Aquí puedes encontrar otros desarrollos completados y utilidades disponibles en mi GitHub:
-
-- **[Aura Movies](https://github.com/josemajr6/aura-movies)** `iOS/Swift` • Red social cinematográfica con SwiftUI y backend Vapor con notificaciones en tiempo real.
-- **[Mr. Rebujito](https://github.com/MrRebujito)** `Full Stack` • Plataforma de gestión integral para Ferias (Casetas, socios y stock) con Angular y Spring Boot.
-- **[LePokedex](https://github.com/Josemajr6/LePokedex)** `Android` • App nativa para gestionar colecciones de avistamientos Pokémon con Material Design.
-- **[Gran Zona Marciana](https://github.com/Josemajr6/GranZonaMarciana)** `Android` • Sistema de gestión para Reality Shows con votaciones, roles y modo offline.
-- **[Aura Quiz](https://github.com/josemajr6/aura-quiz)** `iOS` • Juego educativo de banderas y capitales mundiales conectado a RestCountries API.
-- **[Aura Habits](https://github.com/josemajr6/aura-habits)** `iOS` • Tracker de hábitos minimalista desarrollado con Swift Charts y WidgetKit.
-- **[Aura Weather](https://github.com/josemajr6/aura-weather)** `iOS` • Aplicación meteorológica elegante con geolocalización CoreLocation.
-- **[Aura Notes](https://github.com/josemajr6/aura-notes)** `macOS` • Editor de notas nativo para Mac con persistencia eficiente SwiftData.
-- **[Aura Notch](https://github.com/josemajr6/aura-notch)** `macOS` • Utilidad que transforma el Notch del Mac en un área interactiva multimedia.
-- **[ManyWorker API](https://github.com/Josemajr6/ManyWorker)** `Backend` • API REST con Spring Boot y Swagger para la gestión de tareas y usuarios.
+<p align="center">
+  <a href="https://github.com/SomosNexusApp"><b>Ver repositorio →</b></a>
+</p>
 
 <hr>
 
-## 📈 Actividad y Rendimiento
+## 🛠️ Stack Principal
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,laravel,postgres,mysql&theme=dark" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>💻 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">📱 También trabajo con</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,androidstudio,wordpress,docker,git,github,postman&theme=dark" />
+</p>
+
+<hr>
+
+## 📚 Otros Proyectos
+
+- **[Mr. Rebujito](https://github.com/MrRebujito)** `Full Stack` · Gestión integral para Ferias (casetas, socios y stock) con Angular y Spring Boot.
+- **[Aura Movies](https://github.com/josemajr6/aura-movies)** `iOS/Swift` · Red social cinematográfica con SwiftUI y backend Vapor.
+- **[ManyWorker API](https://github.com/Josemajr6/ManyWorker)** `Backend` · API REST con Spring Boot y Swagger.
+
+<p>Más proyectos disponibles en <a href="https://github.com/Josemajr6?tab=repositories">mi GitHub</a>, incluyendo apps nativas de iOS, Android y macOS.</p>
+
+<hr>
+
+## 📈 Actividad
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josemajr6&theme=tokyonight&bg_color=0d1117&hide_border=true&color=58a6ff" width="100%" />
-  
 </div>
 
 <br>
