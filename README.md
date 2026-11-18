@@ -48,8 +48,6 @@ La hemos desarrollado en equipo. Yo he trabajado en todas las partes del proyect
   <a href="https://github.com/Giralabs/bipsy-web-app"><b>Web de Bipsy</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Giralabs/bipsy-business-web-app"><b>Web de Bipsy Business</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Giralabs/bipsy-admin-app"><b>Panel de administración</b></a>
 </p>
 
 <hr>
